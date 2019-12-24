@@ -31,7 +31,7 @@ ssafy
 - [Development](#development)
   - [Install](#install)
   - [Testing](#testing)
-  - [AngularJS Git Commit Message Conventions](#AngularJS-Git Commit-Message-Conventions)
+  - [Commit](#AngularJS-Git Commit-Message-Conventions)
 - [License](#license)
 - [About](#about)
 
