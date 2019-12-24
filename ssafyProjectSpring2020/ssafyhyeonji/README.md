@@ -74,12 +74,12 @@ $ yarn install
 ```bash
 $ yarn run test
 ```
-
-## Team
-
 ### AngularJS-Git-Commit-Message-Conventions
 
 We are following [Angular's commitizen rules](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) for formatting git commit message. This allows you to read messages that are easy to understand when looking for project history. It also uses the git commit message to generate our [CHANGELOG](/CHANGELOG.md) file.
+
+## Team
+
 
 ```bash
 $ npm install -g git-cz
