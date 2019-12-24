@@ -66,7 +66,7 @@ $ git add .
 $ git git-cz
 $ git push
 ```
-## team
+## Team
 - Dianeha
 - ichhjkim
 - song7331
