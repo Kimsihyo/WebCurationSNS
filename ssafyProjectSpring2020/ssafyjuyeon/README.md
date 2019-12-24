@@ -29,11 +29,11 @@ SNS기반의 뉴스 큐레이팅 서비스
 ```
 ssafy
 |-- ssafyProjectSpring2020
-|     `-- ssafywonseok
-|     `-- ssafyingyu
-|     `-- ssafyjuyeon
-|     `-- ssafydayeon
-|     `-- ssafyhyeonji
+|     `-- ssafyWonseok
+|     `-- ssafyIngyu
+|     `-- ssafyJuyeon
+|     `-- ssafyDayeon
+|     `-- ssafyHyeonji
 ```
 
 ## Prerequisite
